@@ -1,0 +1,14 @@
+.butb,
+.buty {
+    font-size:28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.butb {
+    color:white;
+    background-color: black;
+}
+
+.buty {
+    background-color: yellow;
+}
