@@ -23,7 +23,6 @@ button {
   padding: 8px 16px;
 }
 
-
 input {
   border: 1px solid #ddd;
   border-radius: 16px;
@@ -41,7 +40,6 @@ input {
   background-color: #eeeeee;
   align-self: stretch;
   display: flex;
- 
 }
 
 ul, li {
@@ -60,9 +58,7 @@ a {
   display: flex;
   flex-direction: column;
   align-items: center;
-
 }
-
 
 .right-links {
   margin-left: auto;
@@ -71,5 +67,3 @@ a {
 a, a:visited, a:hover, a:active {
   color: #666;
 }
-
-
